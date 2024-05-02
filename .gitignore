@@ -7,3 +7,6 @@
 pubspec.lock
 isolate_timer.iml
 /.idea
+
+# FVM Version Cache
+.fvm/
