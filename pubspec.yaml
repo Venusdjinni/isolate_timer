@@ -1,7 +1,10 @@
 name: isolate_timer
 description: A simple timer logic running in an isolate. Built with BLoC.
-version: 1.0.0
-repository: https://github.com/Venusdjinni/isolate_timer.git
+version: 1.0.0+1
+repository: https://github.com/Venusdjinni/isolate_timer
+issue_tracker: https://github.com/Venusdjinni/isolate_timer/issues
+homepage: https://github.com/Venusdjinni/isolate_timer
+topics: [bloc, timer, countdown]
 
 environment:
   sdk: ^3.2.3
